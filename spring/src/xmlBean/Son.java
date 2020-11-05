@@ -1,19 +1,29 @@
-package bean;
+package xmlBean;
 
 /**
  * @author xuyuc
  * @since 2020/10/25 20:55
  */
-public class User {
+public class Son {
+    Parent parent;
     private String name;        //姓名
     private int age;            //年龄
 
-    public User() {
+    public Son() {
     }
 
-    public User(String name, int age) {
+    public Son(Parent parent, String name, int age) {
+        this.parent = parent;
         this.name = name;
         this.age = age;
+    }
+
+    public Parent getParent() {
+        return parent;
+    }
+
+    public void setParent(Parent parent) {
+        this.parent = parent;
     }
 
     public String getName() {
@@ -34,6 +44,6 @@ public class User {
 
     @Override
     public String toString() {
-        return "User{ name=" + name + ", age=" + age + "}";
+        return "son属性 { parent" + parent + ", name=" + name + ", age=" + age + "}";
     }
 }

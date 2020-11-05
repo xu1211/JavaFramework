@@ -1,6 +1,7 @@
 package test;
 
-import bean.User;
+import autoBean.AutoSon;
+import xmlBean.Son;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -11,7 +12,11 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class TestSpring {
     public static void main(String[] args) {
         ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
-        User user = (User) context.getBean(User.class);
-        System.out.print(user.toString());
+        Son xmlSon = context.getBean(Son.class);
+        System.out.println(xmlSon.toString());
+
+        AutoSon autoSon = context.getBean(AutoSon.class);
+        System.out.println(autoSon.toString());
+
     }
 }

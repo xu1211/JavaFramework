@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-messaging-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-aop-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-beans-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-orm-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-core-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-webmvc-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-tx-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-oxm-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-web-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-expression-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-context-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-jdbc-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-instrument-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-jms-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-context-support-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-aspects-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/spring-test-5.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springMVC/lib/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

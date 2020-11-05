@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc99c12d-3757-4566-9b74-47c7670b468b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC/springMVC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaFramework/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaFramework/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaFramework/bean/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaFramework/test/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaFramework/test/TestSpring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/spring/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/xmlBean/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/src/test/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring/src/test/TestSpring.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jcuHASa3EqMSFiwftK4XShGQnE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc99c12d-3757-4566-9b74-47c7670b468b" name="Default Changelist" comment="" />
+      <created>1604115611166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604115611166</updated>
+      <workItem from="1604115616924" duration="9755000" />
+      <workItem from="1604156336632" duration="599000" />
+      <workItem from="1604195264624" duration="1540000" />
+      <workItem from="1604319312340" duration="4487000" />
+      <workItem from="1604414333290" duration="529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="255" y="0" key="#Project_Structure" timestamp="1604117463147">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="255" y="0" key="#Project_Structure/0.0.1549.831@0.0.1549.831" timestamp="1604117463147" />
+    <state x="555" y="170" key="FileChooserDialogImpl" timestamp="1604137991840">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="555" y="170" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1604137991840" />
+    <state x="455" y="98" key="spring file set editor" timestamp="1604117473381">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="455" y="98" key="spring file set editor/0.0.1549.831@0.0.1549.831" timestamp="1604117473381" />
+  </component>
+</project>
