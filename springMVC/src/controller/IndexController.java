@@ -1,4 +1,4 @@
-package controller;
+package src.controller;
 
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.Controller;

@@ -5,16 +5,18 @@
        xmlns:context="http://www.springframework.org/schema/context"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <bean id="simpleUrlHandlerMapping"
-    class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">
+    <!-- 表示访问路径/index会交给id=indexController的bean处理 -->
+    <bean id="simpleUrlHandlerMapping" class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">
         <property name="mappings">
             <props>
                 <prop key="/index">indexController</prop>
             </props>
         </property>
     </bean>
-    <bean id="indexController" class="controller.IndexController"></bean>
+    <bean id="indexController" class="src.controller.IndexController"></bean>
 
-    <!-- 扫描controller目录下的 @Controller -->
-    <context:component-scan base-package="controller" />
+    <context:annotation-config />
+
+    <!-- 扫描controller目录下的 @Controller  @RequestMapping 等相关注解 -->
+    <context:component-scan base-package="src" />
 </beans>

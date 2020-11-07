@@ -4,6 +4,6 @@
 ## spring源码
 https://github.com/spring-projects/spring-framework
 
-[IoC源码](./spring/)
+[IoC](./spring/)
 
-[MVC源码](./springMVC/)
+[MVC](./springMVC/)

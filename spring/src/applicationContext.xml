@@ -12,6 +12,8 @@
    http://www.springframework.org/schema/context
    http://www.springframework.org/schema/context/spring-context-3.0.xsd">
 
+    <!-- 1.xml配置方式
+    把Parent对象和Son对象 注册为bean,并注入值 -->
     <bean id="p" class="xmlBean.Parent">
         <property name="name" value="张三" />
         <property name="age" value="11" />
@@ -22,5 +24,7 @@
         <property name="age" value="1" />
     </bean>
 
+    <!-- 2.注解方式
+    扫描 autoBean目录下的 @Component @Autowired 等相关注解 -->
     <context:component-scan base-package="autoBean"/>
 </beans>
